@@ -12,9 +12,9 @@ I am a passionate software developer with strong problem-solving skills and expe
 - 🏫 **12th Class (Non-Medical)** - S.B.H.D. School, Rohtak (78.4%)
 ---
 ## What im up to 
-🌱 Currently learning Advanced Java, Servlets, and Web Technologies
-🔥 Enhancing my DSA & System Design skills for better problem-solving
-🤝 Open to collaborations on Java, DSA, and Full Stack Projects
+- 🌱 Currently learning Advanced Java, Servlets, and Web Technologies.
+- 🔥 Enhancing my DSA & System Design skills for better problem-solving.
+- 🤝 Open to collaborations on Java, DSA, and Full Stack Projects
 
 ---
 
