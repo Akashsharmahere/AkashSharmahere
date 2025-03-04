@@ -28,23 +28,6 @@ I am a passionate software developer with strong problem-solving skills and expe
 
 - Git, GitHub, VS Code, MS Office
 
-## 🚀 Projects
-
-### [Adventure Awaits](https://github.com/Akashsharmahere/Major-Project-Main) - **HTML, CSS, JavaScript, Bootstrap**
-
-- Responsive travel website with stunning visuals.
-- Deployed on GitHub Pages.
-
-### [Dad Jokes Page](https://github.com/Akashsharmahere/Dad-Jokes-Project) - **HTML, CSS, JavaScript**
-
-- A fun web application that generates random dad jokes.
-- Clean and interactive UI with dynamic joke generation.
-
-### [Study Ace Application - Frontend](https://github.com/Ayushghosh02/StudyAceApp-Frontend) - **React, HTML, CSS, JavaScript**
-
-- Interactive study platform with dynamic UI.
-- Utilizes **React & Redux** for a smooth learning experience.
-
 
 ## 📊 GitHub Stats
 
