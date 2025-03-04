@@ -29,7 +29,10 @@ I am a passionate software developer with strong problem-solving skills and expe
 - Git, GitHub, VS Code, MS Office
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+![Akashdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashsharmahere&show_icons=true&theme=dark)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsharmahere&layout=compact&theme=dark)  
 
 
 
