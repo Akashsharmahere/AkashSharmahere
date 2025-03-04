@@ -4,10 +4,13 @@
 
 Welcome to my GitHub profile! I’m passionate about building scalable applications using Java, Spring Boot, and modern web technologies.
 
+## CDAC Banaglore
+  - Post Graduate Diploma in Advance Computing 2025
+
 ## 🔥 About Me
 - 🌱 Currently learning **Spring Boot, React, and Cloud Computing**
 - 🎯 Focused on building **enterprise-level applications**
-- 💡 Enthusiastic about **software architecture and design patterns**
+- 💡 Enthusiastic about **software architecture and software development**
 - 🎓 Sharing knowledge through **interviews and mentoring students**
 - 💬 Ask me about **Java, Spring Boot, React, or Web Development**
 
@@ -27,8 +30,8 @@ Welcome to my GitHub profile! I’m passionate about building scalable applicati
 
 ## 📫 Contact Me
 - 💼 LinkedIn: [Akash Sharma](https://www.linkedin.com/in/akashsharmahere)
-- 📧 Email: your-email@example.com
-- 🌎 Portfolio: [Coming Soon]
+- 📧 Email: akashsharma110103@gmail.com
+- 🌎 Portfolio: [Coming Soon] Working on deploying.
 
 ## 🤝 Let's Connect!
 Feel free to connect with me on GitHub, LinkedIn, or reach out via email. Let's build something amazing together! 🚀
