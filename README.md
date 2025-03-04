@@ -1,38 +1,62 @@
-# Hi there! 👋 I'm Akash Sharma
+# Hi there! 👋 I'm Akashdeep Sharma
 
-### 🚀 Java Developer | 💻 Full Stack Enthusiast
+### 🚀 Software Developer | Java | Spring Boot | React | SQL
 
-Welcome to my GitHub profile! I’m passionate about building scalable applications using Java, Spring Boot, and modern web technologies.
+I am a passionate software developer with strong problem-solving skills and expertise in **Java, Spring Boot, React, .NET, and SQL**. With a background in **Computer Science & Engineering**, I bring creativity and technical proficiency to build impactful solutions.
 
-## CDAC Banaglore
-  - Post Graduate Diploma in Advance Computing 2025
+## 📚 Education
 
-## 🔥 About Me
-- 🌱 Currently learning **Spring Boot, React, and Cloud Computing**
-- 🎯 Focused on building **enterprise-level applications**
-- 💡 Enthusiastic about **software architecture and software development**
-- 🎓 Sharing knowledge through **interviews and mentoring students**
-- 💬 Ask me about **Java, Spring Boot, React, or Web Development**
+- **Post Graduate Diploma in Advanced Computing** (2024 - 2025) - C-DAC Bangalore
+- **B.Tech in Computer Science & Engineering** (2020 - 2024) - Baba Mastnath University (77%)
+- **12th Class (Non-Medical)** - S.B.H.D. School, Rohtak (78.4%)
 
-## 🚀 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Skills & Technologies
+
+### **Programming Languages:**
+
+- Java, C, HTML, CSS, JavaScript
+
+### **Libraries & Frameworks:**
+
+- Spring Boot, React, Node.js, .NET
+
+### **Databases:**
+
+- SQL
+
+### **Tools & Platforms:**
+
+- Git, GitHub, VS Code, MS Office
+
+## 🚀 Projects
+
+### [Adventure Awaits](https://github.com/Akashsharmahere/Major-Project-Main) - **HTML, CSS, JavaScript, Bootstrap**
+
+- Responsive travel website with stunning visuals.
+- Deployed on GitHub Pages.
+
+### [Dad Jokes Page](https://github.com/Akashsharmahere/Dad-Jokes-Project) - **HTML, CSS, JavaScript**
+
+- A fun web application that generates random dad jokes.
+- Clean and interactive UI with dynamic joke generation.
+
+### [Study Ace Application - Frontend](https://github.com/Ayushghosh02/StudyAceApp-Frontend) - **React, HTML, CSS, JavaScript**
+
+- Interactive study platform with dynamic UI.
+- Utilizes **React & Redux** for a smooth learning experience.
+
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashsharmahere&show_icons=true&theme=radical)
+
+
 
 ## 📫 Contact Me
-- 💼 LinkedIn: [Akash Sharma](https://www.linkedin.com/in/akashsharmahere)
-- 📧 Email: akashsharma110103@gmail.com
-- 🌎 Portfolio: [Coming Soon] Working on deploying.
+
+- 💼 LinkedIn: [Akashdeep Sharma](https://www.linkedin.com/in/akashdeep-sharma-b1a09b280/)
+- 📧 Email: [Akashsharma110103@gmail.com](mailto\:Akashsharma110103@gmail.com)
+- 🌎 Portfolio: **Coming Soon**
 
 ## 🤝 Let's Connect!
-Feel free to connect with me on GitHub, LinkedIn, or reach out via email. Let's build something amazing together! 🚀
+
+Feel free to connect with me on GitHub or LinkedIn. Let's collaborate and build something amazing! 🚀
 
