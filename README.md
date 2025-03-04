@@ -28,27 +28,6 @@ I am a passionate software developer with strong problem-solving skills and expe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 🚀 Projects 🏗️
-### 🎨 [Adventure Awaits](https://github.com/Akashsharmahere/Major-Project-Main) - **HTML, CSS, JavaScript, Bootstrap**
-- 🌍 Responsive travel website with stunning visuals.
-- 🚀 Deployed on GitHub Pages.
-
-### 🤣 [Dad Jokes Page](https://github.com/Akashsharmahere/Dad-Jokes-Project) - **HTML, CSS, JavaScript**
-- 😆 A fun web application that generates random dad jokes.
-- 🎭 Clean and interactive UI with dynamic joke generation.
-
-### 📚 [Study Ace Application - Frontend](https://github.com/Ayushghosh02/StudyAceApp-Frontend) - **React, HTML, CSS, JavaScript**
-- 📖 Interactive study platform with dynamic UI.
-- 🎯 Utilizes **React & Redux** for a smooth learning experience.
-
----
-
-## 🏆 Certifications & Achievements 🏅
-- 📜 **Data Science Training (2 Months)** - ExternsClub Pvt Ltd.
-- 🏅 **Letter of Recommendation (Data Science)** - ExternsClub Pvt Ltd.
-- 🎖 **Letter of Recommendation (B.Tech)** - Baba Mastnath Engineering College.
-
 ---
 
 ## 📊 GitHub Stats 🌟
@@ -66,7 +45,7 @@ I am a passionate software developer with strong problem-solving skills and expe
 ## 📫 Contact Me 📩
 - 💼 LinkedIn: [Akashdeep Sharma](https://www.linkedin.com/in/akashdeep-sharma-b1a09b280/)
 - 📧 Email: **Akashsharma110103@gmail.com**
-- 🌎 Portfolio: **Coming Soon**
+- 🌎 Portfolio: **Coming Soon** Working on deploying
 
 ---
 
