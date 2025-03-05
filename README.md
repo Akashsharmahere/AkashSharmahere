@@ -44,7 +44,7 @@ I am a passionate software developer with strong problem-solving skills and expe
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsharmahere&layout=compact&theme=dark" width="400px" />
 </p>
-
+---
 ---
 
 ## 📫 Contact Me 📩
