@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Akashdeep Sharma. 
+# Hi there! 👋 I'm Akashdeep Sharma.
 
 ### 🚀 Software Developer | Java | Spring Boot | React | SQL
 
