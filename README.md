@@ -2,7 +2,7 @@
 
 ### 🚀 Software Developer | Java | DSA | SQL  
 
-I am a passionate software developer with strong problem-solving skills and expertise in **Java, DSA, .NET, and SQL**.  
+I am a passionate software developer with strong problem-solving skills and good in **Java, DSA, .NET, and SQL**.  
 With a background in **Computer Science & Engineering**, I bring creativity and technical proficiency to build impactful solutions.  
 
 📍 **Current Focus:** Advanced Java | Servlets | DSA | System Design | Full Stack Development  
