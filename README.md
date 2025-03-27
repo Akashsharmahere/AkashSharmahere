@@ -48,7 +48,7 @@ I am a passionate software developer with strong problem-solving skills and expe
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akashsharmahere&show_icons=true&theme=dark" width="400px" />
-  <img src="https://streak-stats.demolab.com?user=Akashsharmahere&theme=dark&hide_border=true" width="400px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashsharmahere&theme=dark" width="400px" />
 </p>
 
 <p align="center">
