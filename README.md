@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Akashdeep Sharma  
 
-### 🚀 Software Developer | Java | Spring Boot | React | .NET | SQL  
+### 🚀 Software Developer | Java | DSA | SQL  
 
 I am a passionate software developer with strong problem-solving skills and expertise in **Java, DSA, .NET, and SQL**.  
 With a background in **Computer Science & Engineering**, I bring creativity and technical proficiency to build impactful solutions.  
